@@ -1,0 +1,19 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todoListBox{
+    border-color: black;
+    border-radius: 2px;
+    border-style: solid;
+    width: 50%;
+   
+}
+.removeButton{
+    background-color: darkblue;
+    border:1px;
+    color: white;
+    
+}

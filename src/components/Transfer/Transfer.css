@@ -1,0 +1,19 @@
+.fromBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.fromBoxInput{
+    margin-left: 10px;
+    height: 20px;
+    
+}
+
+.receiptBox{
+    border-style: double;
+    border-radius: 20px;
+    border-color: black;
+    width:30%;
+}
